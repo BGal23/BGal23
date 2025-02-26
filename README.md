@@ -2,9 +2,17 @@
 
 - 🌱 I’m currently learning backend and database technologies
 
-- 
-  
 - ❓ Write to me if you are looking for interesting people and creative solutions  
+  
+- 💻 My projects:
+
+  • <a href="https://github.com/BGal23/flashcards_app">Flashcards</a>
+
+  • <a href="https://github.com/BGal23/enigma">Enigma</a>
+
+  • <a href="https://tmdb-search-engine.vercel.app">TMDB Search Engine</a>
+
+  • <a href="https://github.com/BGal23/shop_ts_react">Web shop</a>
   
 <br/>  
 
