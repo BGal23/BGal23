@@ -4,21 +4,31 @@
 
 - ❓ Write to me if you are looking for interesting people and creative solutions  
   
-- 💻 My projects:
+- 💻 My private projects:
 
-  • <a href="https://github.com/BGal23/flashcards_app">Flashcards</a>
+  • 🃏 <a href="https://bgal23.github.io/flashcards_app">Flashcards</a> (11.2024-02.2025) - Language Learning App
 
-  • <a href="https://github.com/BGal23/enigma">Enigma</a>
+  • 🎥 <a href="https://tmdb-search-engine.vercel.app">TMDB Search Engine</a> (07.2024) - Movie Search Engine
 
-  • <a href="https://tmdb-search-engine.vercel.app">TMDB Search Engine</a>
+  • 📠 <a href="https://bgal23.github.io/enigma">Enigma</a> (06-07.2024) - Enigma Encryption Machine Simulator
 
-  • <a href="https://github.com/BGal23/shop_ts_react">Web shop</a>
+  • 🛍️ <a href="https://bgal23.github.io/shop_ts_react">Fake shop</a> (04-05.2024) - Internet Shop
+
+  • 🪐 <a href="https://bgal23.github.io/nasa_react">Mars Page</a> (01.2024) - NASA Photo Gallery
+
+- 🧑‍🤝‍🧑 My group projects:
+
+  • 💰 <a href="https://bgal23.github.io/goit-gr2-kapusta/login">Kapu$ta</a> (03.2024) - Online Wallet
+
+  • 📖 <a href="https://gointoorbit.github.io/goit-project-js-group-2">Bookshelf</a> (10.2023) - Online Bookstore
+
+  • 🍦 <a href="https://bgal23.github.io/projekt_HTML_CSS_grupa_03">Ice cream</a> (06.2023) - Ice Cream Shop
+
   
 <br/>  
 
 ## My Skill Set  
 
-### I know ⬇️  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
