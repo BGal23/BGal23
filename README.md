@@ -18,7 +18,7 @@
 
 - 🧑‍🤝‍🧑 My group projects:
 
-  • 💰 <a href="https://bgal23.github.io/goit-gr2-kapusta/login">Kapu$ta</a> (03.2024) - Online Wallet
+  • 💰 <a href="https://bgal23.github.io/goit-gr2-kapusta/login">Kapu$ta</a> (03.2024) - Virtual Wallet
 
   • 📖 <a href="https://gointoorbit.github.io/goit-project-js-group-2">Bookshelf</a> (10.2023) - Online Bookstore
 
